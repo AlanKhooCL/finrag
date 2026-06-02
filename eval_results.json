@@ -1,0 +1,57 @@
+{
+  "summary": {
+    "total_questions": 5,
+    "successful": 5,
+    "avg_relevancy_score": 0.724,
+    "avg_rerank_score": 0.99,
+    "avg_latency_ms": 8831,
+    "citation_rate": "5/5"
+  },
+  "results": [
+    {
+      "question": "What are the key risk management practices for fund management companies?",
+      "answer_length": 2373,
+      "has_citations": true,
+      "relevancy_score": 0.875,
+      "avg_rerank_score": 0.978,
+      "latency_ms": 10553,
+      "num_sources": 5
+    },
+    {
+      "question": "What governance structure should FMCs have?",
+      "answer_length": 1798,
+      "has_citations": true,
+      "relevancy_score": 0.579,
+      "avg_rerank_score": 0.995,
+      "latency_ms": 7786,
+      "num_sources": 5
+    },
+    {
+      "question": "What is required under Regulation 13B for fund management companies?",
+      "answer_length": 1047,
+      "has_citations": true,
+      "relevancy_score": 0.913,
+      "avg_rerank_score": 0.999,
+      "latency_ms": 5879,
+      "num_sources": 5
+    },
+    {
+      "question": "How should FMCs handle conflicts of interest?",
+      "answer_length": 1485,
+      "has_citations": true,
+      "relevancy_score": 0.714,
+      "avg_rerank_score": 0.978,
+      "latency_ms": 7407,
+      "num_sources": 5
+    },
+    {
+      "question": "What should FMCs do for ongoing monitoring of investments?",
+      "answer_length": 3198,
+      "has_citations": true,
+      "relevancy_score": 0.538,
+      "avg_rerank_score": 1.0,
+      "latency_ms": 12530,
+      "num_sources": 5
+    }
+  ]
+}
